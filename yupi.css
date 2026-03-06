@@ -22,8 +22,22 @@ a:hover {
 
 header {
     background: linear-gradient(90deg, #005f73 0%, #0a9396 100%);
-    color: #fff;
+    color: #ffffff;
     padding: 1rem 0;
+}
+
+h1{
+    text-align: left;
+    color :#333;
+}
+
+#A1{
+    border-radius: 50%;
+    display: block;
+    margin: 1rem auto;
+    position: absolute;
+    top: 70px;
+    right: 350px;
 }
 
 nav ul {
